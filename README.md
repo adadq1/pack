@@ -11,7 +11,7 @@ Fork Deploy is highly recommended
 
 ## اهـلا بـك
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wqw1131/pack)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dqdqd11/pack)
 
 ## شكـرا لكـم 
 
